@@ -40,7 +40,7 @@
     <p align="center">
       <samp>
         [ <a href="https://linktr.ee/1tsMiri">socials</a> .
-        <a href="https://discord.gg/Aee7t3w">discord</a> .
+        <a href="https://discordapp.com/users/517769985716912128">discord</a> .
         <a href="mailto:tinymiricomms@gmail.com">contact</a> ]
       </samp>
     </p>
