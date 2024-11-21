@@ -19,7 +19,7 @@
        <br />
       <br />
       <img
-        src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=731433&center=true&vCenter=true&width=435&lines=Just+a+beginner+learning+to+code!+♡"
+        src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=731433&center=true&vCenter=true&width=435&lines=Just+a+beginner+learning+how+to+code!+♡"
         alt="Typing SVG"
       />
     </samp>
