@@ -17,6 +17,7 @@
         <br />
                       |、˜〵    
       </b>
+      [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1tsMiri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1tsMiri) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/1tsMiri) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@1tsMiriVT) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/1tsMiri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/1tsMiri) 
       <br />
       <img
         src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=731433&center=true&vCenter=true&width=435&lines=Just+a+beginner+learning+to+code!+♡"
