@@ -71,7 +71,6 @@
       </table>
     </div>
   </details>
-</div>
     </samp>
       <br />
         <img
@@ -89,3 +88,4 @@
         />
       <br />
     </samp>
+</div>
