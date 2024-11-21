@@ -10,9 +10,13 @@
         Welcome
         <br />
         I'm Miri, a System Engineer Student.
+        <br />
                        ╱|、
+        <br />
                      (˚ˎ 。7  
-                      |、˜〵          
+        <br />
+                      |、˜〵    
+        <br />
                       じしˍ,)ノ
       </b>
       <br />
