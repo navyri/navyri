@@ -47,10 +47,10 @@
     <h2></h2>
     <p align="center">
       <samp>
-         𓏵 ◜<a href="https://linktr.ee/1tsMiri">socials</a> ◌
+        ◜<a href="https://linktr.ee/1tsMiri">socials</a> ◌
         <a href="https://discordapp.com/users/517769985716912128">discord</a> ◌
         <a href="https://www.twitch.tv/1tsmiri">twitch</a> ◌
-        <a href="mailto:tinymiricomms@gmail.com">contact</a>◞ 𓏵
+        <a href="mailto:tinymiricomms@gmail.com">contact</a>◞
       </samp>
     </p>
     <h2></h2>
