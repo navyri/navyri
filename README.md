@@ -69,8 +69,6 @@
           </td>
         </tr>
       </table>
-    </div>
-  </details>
     </samp>
       <br />
         <img
@@ -88,4 +86,6 @@
         />
       <br />
     </samp>
+    </div>
+  </details>
 </div>
