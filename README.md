@@ -23,7 +23,6 @@
         alt="Typing SVG"
       />
     </samp>
-    <h2></h2>
     <br />
       <img
         align="center"
