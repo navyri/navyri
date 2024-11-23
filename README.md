@@ -72,7 +72,7 @@
               <img
                 align="center"
                 alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tsm1ri&bg_color=0d1117&color=ececec&line=ececec&point=c1d9d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tsm1ri&layout=compact&hide_border=true&title_color=ececec&icon_color=ececec&text_color=c1d9d9&langs_count=16&theme=dark&bg_color=0d1117"
               />
             </a>
           </td>
