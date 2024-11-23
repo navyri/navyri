@@ -63,7 +63,7 @@
               <img
                 align="center"
                 alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=1tsm1ri&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false"
+                src="https://github-readme-stats.vercel.app/api?username=1tsm1ri&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=dark&title_color=ececec&icon_color=ececec&text_color=c1d9d9&bg_color=0d1117"
               />
             </a>
           </td>
@@ -72,7 +72,7 @@
               <img
                 align="center"
                 alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tsm1ri&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tsm1ri&bg_color=0d1117&color=ececec&line=ececec&point=c1d9d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"
               />
             </a>
           </td>
