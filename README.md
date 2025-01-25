@@ -84,9 +84,13 @@
       </table>
     </div>
   <p align="center">
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=731433&reversal=false&textBg=false&section=footer"
-/>
+  <img
+src="https://media.tenor.com/IjX29sgxJVAAAAAj/sleeping-cute.gif"
+  />
+  <p align="center">
+  <img
+src="https://capsule-render.vercel.app/api?type=waving&height=100&color=731433&reversal=false&textBg=false&section=footer"
+  />
   </details>
 </div>        
 
