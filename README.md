@@ -2,10 +2,6 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=731433&reversal=false&textBg=false"
   />
-<p align="center">
-  <img
-    src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2F1tsm1ri&s=20&c=731433&bg=00000000&no=2&ff=digi&tb=profile+visits%3A+&ta="
-  />
 <br />
 <br />
 <div align="justify">
@@ -21,6 +17,10 @@
         <br />
         I'm Miri, a System Engineer Student.
         <br />
+      <p align="center">
+  <img
+    src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2F1tsm1ri&s=20&c=731433&bg=00000000&no=2&ff=digi&tb=profile+visits%3A+&ta="
+  />
         <br />
     <p align="center">
   <img
