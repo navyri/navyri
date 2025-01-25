@@ -40,13 +40,7 @@
     <strong>
       <samp>」</samp>
     </strong>
-  </p>
-        
-  <p align="center">
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&height=100&color=731433&reversal=false&textBg=false&section=footer"
-    />
-        
+  </p>   
   <details>
     <summary>
       <samp>
@@ -90,4 +84,9 @@
       </table>
     </div>
   </details>
-</div>
+</div>        
+  <p align="center">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&height=100&color=731433&reversal=false&textBg=false&section=footer"
+    />
+     
