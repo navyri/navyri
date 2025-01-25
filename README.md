@@ -25,7 +25,9 @@
       />
     </samp>
       <br />
-        ![1tsMiri](https://img.shields.io/badge/1ts-Miri-red)
+          <img
+            src="https://img.shields.io/badge/1ts-Miri-red"
+          />
       </br>
     </samp>
   </p>
