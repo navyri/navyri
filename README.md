@@ -24,7 +24,9 @@
         alt="Typing SVG"
       />
     </samp>
-    <br />
+      <br />
+        ![1tsMiri](https://img.shields.io/badge/1ts-Miri-red)
+      </br>
     </samp>
   </p>
   <p align="right">
