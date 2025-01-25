@@ -34,19 +34,19 @@
             src="https://img.shields.io/badge/Miri_♡-black"
           />
       </br>
-    </samp>
-
-  <p align="center">
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&height=100&color=731433&reversal=false&textBg=false&section=footer"
-    />
-        
+    </samp>      
   </p>
   <p align="right">
     <strong>
       <samp>」</samp>
     </strong>
   </p>
+        
+  <p align="center">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&height=100&color=731433&reversal=false&textBg=false&section=footer"
+    />
+        
   <details>
     <summary>
       <samp>
