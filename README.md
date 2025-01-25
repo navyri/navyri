@@ -25,11 +25,6 @@
       />
     </samp>
     <br />
-      <img
-        align="center"
-        src="https://visitcount.itsvg.in/api?id=1tsm1ri&icon=7&color=5" 
-        alt="Profile visits"
-      />
     </samp>
   </p>
   <p align="right">
