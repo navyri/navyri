@@ -1,6 +1,7 @@
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=731433&reversal=false&textBg=false"
-/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=731433&reversal=false&textBg=false"
+  />
 
 <div align="justify">
   <p align="left">
