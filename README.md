@@ -26,7 +26,7 @@
     </samp>
       <br />
           <img
-            src="https://img.shields.io/badge/♡-black"
+            src="https://img.shields.io/badge/Miri_♡-black"
           />
       </br>
     </samp>
