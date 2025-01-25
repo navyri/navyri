@@ -17,11 +17,10 @@
         I'm Miri, a System Engineer Student.
         <br />
         <br />
-                       ╱|、
-        <br />
-                     (˚ˎ 。7  
-        <br />
-                      |、˜〵    
+    <p align="center">
+  <img
+src="https://media.tenor.com/IjX29sgxJVAAAAAj/sleeping-cute.gif"
+  />  
        <br />
        <br />
       <img
@@ -83,10 +82,6 @@
         </tr>
       </table>
     </div>
-  <p align="center">
-  <img
-src="https://media.tenor.com/IjX29sgxJVAAAAAj/sleeping-cute.gif"
-  />
   <p align="center">
   <img
 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=731433&reversal=false&textBg=false&section=footer"
