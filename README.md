@@ -81,7 +81,7 @@ src="https://img.shields.io/badge/Miri_♡-black"
               <img
                 align="center"
                 alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tsm1ri&layout=compact&hide_border=true&font=Iosevka&title_color=731433&icon_color=ececec&text_color=c1d9d9&langs_count=16&theme=dark&bg_color=0d1117"
+                src=""
               />
             </a>
           </td>
