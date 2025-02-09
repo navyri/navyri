@@ -15,7 +15,7 @@
       <b>
         Welcome
         <br />
-        I'm Miri, a System Engineer Student.
+        I'm Miri, a Computer Science  Student.
         <br />
       <p align="center">
   <img
