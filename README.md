@@ -34,7 +34,7 @@ src="https://img.shields.io/badge/Namy_♡-black"
     <br />
       <img
         src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=731433&center=true&vCenter=true&width=435&lines=Just+a+beginner+learning+how+to+code!+♡"
-        alt="Typing SVG"
+        alt="Typing"
       />
     </samp>
       <br />
