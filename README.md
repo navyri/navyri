@@ -15,7 +15,7 @@
       <b>
         Welcome
         <br />
-        I'm Namy, a Computer Science  Student.
+        I'm Navy, a Computer Science  Student.
         <br />
       <p align="center">
   <img
@@ -28,7 +28,7 @@ src="https://media.tenor.com/IjX29sgxJVAAAAAj/sleeping-cute.gif"
   />  
     <p align="center">
   <img
-src="https://img.shields.io/badge/Namy_♡-black"
+src="https://img.shields.io/badge/Navy_♡-black"
   />
     <br />
     <br />
