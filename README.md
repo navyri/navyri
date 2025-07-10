@@ -56,9 +56,9 @@ src="https://img.shields.io/badge/Namy_♡-black"
     <h2></h2>
     <p align="center">
       <samp>
-        ◜<a href="https://linktr.ee/namykou">socials</a> ◌
+        ◜<a href="https://linktr.ee/navyri_">socials</a> ◌
         <a href="https://discordapp.com/users/517769985716912128">discord</a> ◌
-        <a href="https://www.twitch.tv/namykou">twitch</a> ◌
+        <a href="https://www.twitch.tv/navyri">twitch</a> ◌
         <a href="mailto:tinymiricomms@gmail.com">contact</a>◞
       </samp>
     </p>
@@ -97,7 +97,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=100&color=731433&r
 <footer>
   <samp>
     <p align="center">
-      © README.md by <a href="https://github.com/1tsm1ri" target="_blank">1tsM1ri</a>.
+      © README.md by <a href="https://github.com/1tsm1ri" target="_blank">Navyri</a>.
     </p>
   </samp>
 </footer>
