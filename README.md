@@ -97,7 +97,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=100&color=731433&r
 <footer>
   <samp>
     <p align="center">
-      © README.md by <a href="https://github.com/1tsm1ri" target="_blank">Navyri</a>.
+      © README.md by <a href="https://github.com/navyri" target="_blank">Navyri</a>.
     </p>
   </samp>
 </footer>
